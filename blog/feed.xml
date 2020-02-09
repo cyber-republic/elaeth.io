@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>CyberRepublic ETH Task Force Blog</title>
+        <title>elaeth.io Blog</title>
         <link>https://elaeth.io/blog</link>
-        <description>The best place to stay up-to-date with the latest CyberRepublic ETH Task Force news and events.</description>
+        <description>The best place to stay up-to-date with the latest elaeth.io news and events.</description>
         <lastBuildDate>Fri, 15 Nov 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>CyberRepublic ETH Task Force Blog</title>
+            <title>elaeth.io Blog</title>
             <url>https://elaeth.io/img/Elastos_Icon_RGB.png</url>
             <link>https://elaeth.io/blog</link>
         </image>
