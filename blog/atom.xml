@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elaeth.io/blog</id>
     <title>elaeth.io Blog</title>
-    <updated>2019-11-15T06:00:00Z</updated>
+    <updated>2020-07-06T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://elaeth.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest elaeth.io news and events.</subtitle>
     <logo>https://elaeth.io/img/Elastos_Icon_RGB.png</logo>
     <rights>Copyright © 2020 CyberRepublic ETH Task Force</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-07-06 - ElaNS service is available]]></title>
+        <id>https://elaeth.io/blog/2020/07/06/elans-launch.html</id>
+        <link href="https://elaeth.io/blog/2020/07/06/elans-launch.html">
+        </link>
+        <updated>2020-07-06T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>After several months working, ElaNS is launched, now everyone in Elastos ecosystem could have a .ela domain in 3 minutes.</p> <p>Start your .ela domain journey here:</p> <p><a href="https://elans.elaeth.io/">https://elans.elaeth.io/</a></p> <p>There are several key differences from Ethereum ENS, the first one ...</p>]]></summary>
+        <author>
+            <name>Harry Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2019-11-15 - ETH Task Force - Sep and Oct 2019 Report]]></title>
         <id>https://elaeth.io/blog/2019/11/15/elaeth-sep-oct-report.html</id>
@@ -19,7 +30,6 @@
 ]]></summary>
         <author>
             <name>Harry Liu</name>
-            <uri>http://twitter.com/jiyangxixi</uri>
         </author>
     </entry>
     <entry>
@@ -33,7 +43,6 @@
 ]]></summary>
         <author>
             <name>Harry Liu</name>
-            <uri>http://twitter.com/jiyangxixi</uri>
         </author>
     </entry>
 </feed>

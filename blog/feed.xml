@@ -4,7 +4,7 @@
         <title>elaeth.io Blog</title>
         <link>https://elaeth.io/blog</link>
         <description>The best place to stay up-to-date with the latest elaeth.io news and events.</description>
-        <lastBuildDate>Fri, 15 Nov 2019 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2020 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>https://elaeth.io/blog</link>
         </image>
         <copyright>Copyright © 2020 CyberRepublic ETH Task Force</copyright>
+        <item>
+            <title><![CDATA[2020-07-06 - ElaNS service is available]]></title>
+            <link>https://elaeth.io/blog/2020/07/06/elans-launch.html</link>
+            <guid>https://elaeth.io/blog/2020/07/06/elans-launch.html</guid>
+            <pubDate>Mon, 06 Jul 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>After several months working, ElaNS is launched, now everyone in Elastos ecosystem could have a .ela domain in 3 minutes.</p> <p>Start your .ela domain journey here:</p> <p><a href="https://elans.elaeth.io/">https://elans.elaeth.io/</a></p> <p>There are several key differences from Ethereum ENS, the first one ...</p>]]></description>
+        </item>
         <item>
             <title><![CDATA[2019-11-15 - ETH Task Force - Sep and Oct 2019 Report]]></title>
             <link>https://elaeth.io/blog/2019/11/15/elaeth-sep-oct-report.html</link>
